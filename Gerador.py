@@ -1,4 +1,4 @@
-import ran
+import rand
 import string
 
 def password_generator(len_pass = 8):
