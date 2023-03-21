@@ -1,5 +1,5 @@
 import random
-import stri
+import strin
 
 def password_generator(len_pass = 8):
     ascii_options = string.ascii_letters
