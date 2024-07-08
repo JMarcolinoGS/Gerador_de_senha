@@ -10,8 +10,7 @@ def password_generator(len_pass = 8):
     for i in range(0, len_pass):
         digit = random.choice(options)
         password_user = password_user =  digit
-        
-        
+        
     return password_user
 
 choice_user = input("Quanto digitos na senha?")
